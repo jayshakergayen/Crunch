@@ -13,7 +13,7 @@ function a_function() {
     "Baby-sitter. If you post an ad on the interenet and someone sees it, then the money you can make can add up with the more children your baby-sitting.",
     "Carpenter. Now this one is a bit more difficult but if you look up some tutorials and if you build a decent dining table and chairs it could be worth $300 or even more!",
     "Teacher. Even if it's a substitute teacher or an assistant teacher you will be killing two birds with one stone. #1 you will be making money and #2 you will be able to learn something the higher grades you teach",
- 
+    "A niche job. Find something your good at and find someone who wants you to do it for them",
     
     ];
     
